@@ -37,7 +37,8 @@ const Achievements = () => {
               
               Developed an application for an internet café using C# and .NET MAUI. This project helped me sharpen my UI/UX skills and further understand user interaction with digital services.
             </p>
-            <p className="text-lg">I built a mobile-friendly portfolio to showcase my frontend development skills, using ReactJS and Tailwind CSS for a sleek, responsive design.</p>
+            <p className="text-lg">
+                I built a mobile-friendly portfolio to showcase my frontend development skills, using ReactJS and Tailwind CSS for a sleek, responsive design.</p>
           </div>
         </li>
       </ul>

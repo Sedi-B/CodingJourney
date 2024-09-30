@@ -16,6 +16,7 @@ function App() {
    <Home/>
    <About/>
    <Projects/>
+   <Achievements/>
    <Contacts/>
     </div>
   
